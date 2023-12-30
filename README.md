@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benhur-araujo&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benhur-araujo&theme=merko&hide_border=true)](https://git.io/streak-stats) <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 
 <!--
 **benhur-araujo/benhur-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
