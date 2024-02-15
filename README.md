@@ -1,7 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benhur-araujo&theme=blue-green&hide_border=true&card_width=440)](https://git.io/streak-stats) <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47jcpfqosx5fv5vmxloxagz6isg28da3z40fiyzwyz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### Work project
-- I'm working on creating a platform to help the Dev Engineers scale a great product worldwide.
+- I'm helping on the creation of a platform to help the Dev Engineers scale a great product worldwide.
 
 ### Study planning for 2024
 - I'll consolidate my knowledge of Linux and K8S by taking LFCS, CKA, and CKAD certifications.
