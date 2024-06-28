@@ -10,7 +10,7 @@
    - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
     
 - I'm working on a project that creates the entire infrastructure and also developing the applications that will run on that infrastructure:
-  - https://github.com/conquer-project
+  - https://github.com/conquerproject
 
 ### About me
 Tech enthusiast and hardworking Tech Lead of DevOps at a multinational company. A disciplined professional with a passion for coding and achieving goals. Enjoys the simplicity of life, whether it's in the lines of code or a minimalist lifestyle. Dedicated to a well-balanced lifestyle, you'll find me at the gym or fueling up with a healthy meal. Early riser, a goal-setter, and a lover of reading, meditation, and nature. Balancing the complexities of tech with the simplicity of a purpose-driven life.
